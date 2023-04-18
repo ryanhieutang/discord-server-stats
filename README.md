@@ -1,5 +1,5 @@
 # About the project
-With the fustration of public discord bots not having the option to customise your stat channels, I came to the conclusion to why make one myself and adapt it into [Million Token's Server](https://twitter.com/Million__Token)
+With the fustration of public discord bots not having the option to customise your stat channels, I came to the conclusion to why not make one myself and adapt it into [Million Token's Server](https://twitter.com/Million__Token)
 
 Please show your support by reacting with `watch` or ⭐
 
